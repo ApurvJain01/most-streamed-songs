@@ -1,4 +1,4 @@
-# Data pipline prokect for the Most streams songs
+# Data pipline project for the Most streams songs
 This project we will be fetching data from a csv file > store raw data into mysql > clean/transform/normalize the data > load to data warehouse
 
 Stage 1 
