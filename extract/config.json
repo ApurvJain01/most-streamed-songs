@@ -1,7 +1,7 @@
 {
-    "host": "127.0.0.1",
-    "user": "root",
-    "password": "1234",
+    "host": "$HOST",
+    "user": "$USERNAME",
+    "password": "$PASSWORD",
     "database": "most_streamed_songs",
     "pool_size": 5
 }
